@@ -13,7 +13,6 @@ module.exports = async function (context, myTimer) {
 
     const options = {
         urls: siteUrls,
-        urlFilter: function(url) { return false },
         directory: dirPath,
         ignoreErrors: true,
         request: {
