@@ -1,2 +1,2 @@
 # SiteCacheRefresher
-Azure Function to render site and store image in Azure Blob Storage
+Azure Function (runtime v.2) to download site with images etc. to keep CDN cache current.
